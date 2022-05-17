@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil Github!
 
-Meu nome e Esttefani Mendonça do Couto, sou estudante no curso de Sistemas de Informação na Universidade Veiga de Almeida (UVA), e apaixonada por tecnologia. Venho me desenvolvendo em tecnologias Front-end e sempre aberta a aprender novas tecnologias que o mercado necessita.
+Meu nome é Esttefani Mendonça do Couto, sou estudante no curso de Sistemas de Informação na Universidade Veiga de Almeida (UVA), e apaixonada por tecnologia. Venho me desenvolvendo em tecnologias Front-end e estou sempre aberta a aprender novas tecnologias que o mercado necessita.
 
 Em tempo livre costumo aprender novas tecnologias como Java.
 
