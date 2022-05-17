@@ -14,7 +14,7 @@ Em tempo livre costumo aprender novas tecnologias como Java.
 * ![Alt ou título da imagem](https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 
 <div>
-  <a href="https://github.com/AlexCanel">
+  <a href="https://github.com/EsttefaniCouto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsttefaniCouto&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EsttefaniCouto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
